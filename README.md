@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/demazone/demazone/daf35e9fb2e3086f25b714e63b3f1da4cb25157f/banner.svg" width="300">
+
 Hey my friend👋
 
 Im Banana 🍌
