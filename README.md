@@ -1,6 +1,7 @@
-<img src="https://raw.githubusercontent.com/demazone/demazone/daf35e9fb2e3086f25b714e63b3f1da4cb25157f/banner.svg" width="1000">
+<img align="center" src="https://raw.githubusercontent.com/demazone/demazone/daf35e9fb2e3086f25b714e63b3f1da4cb25157f/banner.svg" width="1000">
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kouroshshahab&theme=react-dark)
 
 Hey my friend👋
 
